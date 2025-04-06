@@ -1,0 +1,202 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "dangcheong-1.20.1",
+      "name": "dangcheong (Minecraft 1.20.1)",
+      "description": "Minecraft 1.20.1 (Fabric v0.16.12)",
+      "icon": "https://github.com/mchdistro/dangcheong/raw/main/server-icon.png",
+      "version": "1.0.0",
+      "address": "dangcheong.gotiger.ggm.kr",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.16.12",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1387601,
+            "MD5": "e462a4911469a9816029b95eaae5bdb0",
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/repo/lib/net/fabricmc/fabric-loader/0.16.12/fabric-loader-0.16.12.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-fabric-0.16.12",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2859,
+                "MD5": "b856f3241c882e88cd8eb23e25082093",
+                "url": "https://github.com/mchdistro/dangcheong/raw/main/repo/versions/1.20.1-fabric-0.16.12/1.20.1-fabric-0.16.12.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.7.1",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126093,
+                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
+                "url": "https://github.com/mchdistro/dangcheong/raw/main/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.7.1",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35126,
+                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
+                "url": "https://github.com/mchdistro/dangcheong/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.7.1",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 73459,
+                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
+                "url": "https://github.com/mchdistro/dangcheong/raw/main/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.7.1",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51939,
+                "MD5": "e85029f613b6469989cc7cf53fe06b74",
+                "url": "https://github.com/mchdistro/dangcheong/raw/main/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.7.1",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94519,
+                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
+                "url": "https://github.com/mchdistro/dangcheong/raw/main/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.15.4+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1494834,
+                "MD5": "991ca8be2c408fe19eb64014d8a18243",
+                "url": "https://github.com/mchdistro/dangcheong/raw/main/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.20.1",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 573365,
+                "MD5": "3f4768ac751cac3418266d1d7aa15f55",
+                "url": "https://github.com/mchdistro/dangcheong/raw/main/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "me.shedaniel.autoconfig.example:cloth-config:11.1.136@jar",
+          "name": "Cloth Config v11",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1172214,
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/required/cloth-config-11.1.136-fabric.jar",
+            "MD5": "45d8bada7797af61d1f5543313b1f9f0"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.92.5+1.20.1@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2107841,
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/required/fabric-api-0.92.5+1.20.1.jar",
+            "MD5": "9d6b286586e9d6b40ee161dee1dd271f"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.7.6+mc1.20.1@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2726899,
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
+            "MD5": "45577adb5ab16505572c6ea4b1006e58"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:15.20.0.106@jar",
+          "name": "Just Enough Items",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1392720,
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/required/jei-1.20.1-fabric-15.20.0.106.jar",
+            "MD5": "f2536f0f14f67847634ae70d3ca79348"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:5.10.3@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7209180,
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.3-fabric.jar",
+            "MD5": "4689aa2b7ae8126112e32a2069dc1040"
+          }
+        },
+        {
+          "id": "com.hyfata.najoan:koreanpatch:1.6.13+mc1.20.1@jar",
+          "name": "Korean Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 448094,
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/required/koreanpatch-fabric-1.6.13+mc1.20.1.jar",
+            "MD5": "6e20891b8d2b8770569f819d4e765c4d"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:sodium:0.5.13+mc1.20.1@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 971552,
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
+            "MD5": "76e0349865f91f315aae087a6e88a84a"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 70,
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/files/servers.dat",
+            "MD5": "d3f30e006b6bc48889ee50f768215a60",
+            "path": "servers.dat"
+          }
+        }
+      ]
+    }
+  ]
+}
