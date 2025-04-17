@@ -116,6 +116,32 @@
           ]
         },
         {
+          "id": "dev.architectury.utils:architectury:9.2.14@jar",
+          "name": "Architectury",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 585207,
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/optionalon/architectury-9.2.14-fabric.jar",
+            "MD5": "2ae04e0dad60a390031ee341e0b2ab45"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.blockomorph:blockomorph:1.0.7@jar",
+          "name": "Block'oMorph",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 379003,
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/optionalon/blockomorph-1.20.1-fabric-1.0.8-alpha+5.jar",
+            "MD5": "555cfbae853abcc9438f500c1602e43f"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "me.shedaniel.autoconfig.example:cloth-config:11.1.136@jar",
           "name": "Cloth Config v11",
           "type": "FabricMod",
@@ -133,6 +159,19 @@
             "size": 2107841,
             "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/required/fabric-api-0.92.5+1.20.1.jar",
             "MD5": "9d6b286586e9d6b40ee161dee1dd271f"
+          }
+        },
+        {
+          "id": "draylar.identity:identity:2.7.2-alpha+2-1.20.1@jar",
+          "name": "Identity",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 243988,
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/optionalon/identity-2.7.2-alpha+2-1.20.1-fabric.jar",
+            "MD5": "b70bb3fcc3726e0e1e6d6aacd72db9f7"
+          },
+          "required": {
+            "value": false
           }
         },
         {
