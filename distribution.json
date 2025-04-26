@@ -232,7 +232,6 @@
           "artifact": {
             "size": 1840,
             "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/files/options.txt",
-            "MD5": "215f341f8568147d71f4c8aee2c56ef2",
             "path": "options.txt"
           }
         },
@@ -256,6 +255,28 @@
             "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/files/servers.dat",
             "MD5": "d3f30e006b6bc48889ee50f768215a60",
             "path": "servers.dat"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.4.zip",
+          "name": "ComplementaryUnbound_r5.4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 452408,
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.4.zip",
+            "MD5": "94f56d5c5c343b9a0f4ad7eb135f9afa",
+            "path": "shaderpacks/ComplementaryUnbound_r5.4.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.52 Medium.zip",
+          "name": "Sildur's Vibrant Shaders v1.52 Medium.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142509,
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Medium.zip",
+            "MD5": "73ac2677df6b146ff789c06c73ca67d1",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Medium.zip"
           }
         }
       ]
