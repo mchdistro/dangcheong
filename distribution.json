@@ -226,6 +226,28 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1840,
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/files/options.txt",
+            "MD5": "215f341f8568147d71f4c8aee2c56ef2",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "generated.zip",
+          "name": "generated.zip",
+          "type": "File",
+          "artifact": {
+            "size": 48938651,
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/files/resourcepacks/generated.zip",
+            "MD5": "dde91e88eeef041d3aa52264ac0b8c1b",
+            "path": "resourcepacks/generated.zip"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
