@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "dangcheong-1.20.1",
+      "id": "dangcheong_0509-1.20.1",
       "name": "dangcheong (Minecraft 1.20.1)",
       "description": "Minecraft 1.20.1 (Fabric v0.16.12)",
       "icon": "https://github.com/mchdistro/dangcheong/raw/main/server-icon.png",
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 585207,
-            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/required/architectury-9.2.14-fabric.jar",
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/fabricmods/required/architectury-9.2.14-fabric.jar",
             "MD5": "2ae04e0dad60a390031ee341e0b2ab45"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 379009,
-            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/required/blockomorph-1.20.1-fabric-1.0.8-alpha+8.jar",
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/fabricmods/required/blockomorph-1.20.1-fabric-1.0.8-alpha+8.jar",
             "MD5": "465f90747b98ba8c77069482a71639d9"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1172214,
-            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/required/cloth-config-11.1.136-fabric.jar",
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/fabricmods/required/cloth-config-11.1.136-fabric.jar",
             "MD5": "45d8bada7797af61d1f5543313b1f9f0"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2107841,
-            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/required/fabric-api-0.92.5+1.20.1.jar",
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/fabricmods/required/fabric-api-0.92.5+1.20.1.jar",
             "MD5": "9d6b286586e9d6b40ee161dee1dd271f"
           }
         },
@@ -161,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 243914,
-            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/required/identity-2.7.2-alpha+3-1.20.1-fabric.jar",
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/fabricmods/required/identity-2.7.2-alpha+3-1.20.1-fabric.jar",
             "MD5": "7d86a35d294750427c5c1ce2e219e0bd"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2726899,
-            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
             "MD5": "45577adb5ab16505572c6ea4b1006e58"
           }
         },
@@ -181,7 +181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1392720,
-            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/required/jei-1.20.1-fabric-15.20.0.106.jar",
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/fabricmods/required/jei-1.20.1-fabric-15.20.0.106.jar",
             "MD5": "f2536f0f14f67847634ae70d3ca79348"
           }
         },
@@ -191,7 +191,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7209180,
-            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.3-fabric.jar",
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.3-fabric.jar",
             "MD5": "4689aa2b7ae8126112e32a2069dc1040"
           }
         },
@@ -201,8 +201,21 @@
           "type": "FabricMod",
           "artifact": {
             "size": 448094,
-            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/required/koreanpatch-fabric-1.6.13+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/fabricmods/required/koreanpatch-fabric-1.6.13+mc1.20.1.jar",
             "MD5": "6e20891b8d2b8770569f819d4e765c4d"
+          }
+        },
+        {
+          "id": "dev.furq.resourcepackcached:rpc:1.1.2@jar",
+          "name": "ResourcePackCached",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12410,
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/fabricmods/optionalon/rpc-1.1.2+1.20.1-fabric.jar",
+            "MD5": "d7c83dd51416017ce0c3fe1aa4d190da"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -211,7 +224,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 971552,
-            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
             "MD5": "76e0349865f91f315aae087a6e88a84a"
           }
         },
@@ -221,7 +234,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8103826,
-            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.30.jar",
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.30.jar",
             "MD5": "10efc718572d137c7ba2ab386f307bba"
           }
         },
@@ -230,20 +243,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 1840,
-            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/files/options.txt",
+            "size": 1819,
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/files/options.txt",
             "path": "options.txt"
-          }
-        },
-        {
-          "id": "generated.zip",
-          "name": "generated.zip",
-          "type": "File",
-          "artifact": {
-            "size": 48938651,
-            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/files/resourcepacks/generated.zip",
-            "MD5": "dde91e88eeef041d3aa52264ac0b8c1b",
-            "path": "resourcepacks/generated.zip"
           }
         },
         {
@@ -252,7 +254,7 @@
           "type": "File",
           "artifact": {
             "size": 70,
-            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/files/servers.dat",
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/files/servers.dat",
             "MD5": "d3f30e006b6bc48889ee50f768215a60",
             "path": "servers.dat"
           }
@@ -263,7 +265,7 @@
           "type": "File",
           "artifact": {
             "size": 452408,
-            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.4.zip",
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.4.zip",
             "MD5": "94f56d5c5c343b9a0f4ad7eb135f9afa",
             "path": "shaderpacks/ComplementaryUnbound_r5.4.zip"
           }
@@ -274,7 +276,7 @@
           "type": "File",
           "artifact": {
             "size": 142509,
-            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Medium.zip",
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Medium.zip",
             "MD5": "73ac2677df6b146ff789c06c73ca67d1",
             "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Medium.zip"
           }
