@@ -186,16 +186,6 @@
           }
         },
         {
-          "id": "journeymap:journeymap:5.10.3@jar",
-          "name": "Journeymap",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 7209180,
-            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.3-fabric.jar",
-            "MD5": "4689aa2b7ae8126112e32a2069dc1040"
-          }
-        },
-        {
           "id": "com.hyfata.najoan:koreanpatch:1.6.13+mc1.20.1@jar",
           "name": "Korean Patch",
           "type": "FabricMod",
