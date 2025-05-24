@@ -242,6 +242,16 @@
           }
         },
         {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 288,
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/files/config/iris.properties",
+            "path": "config/iris.properties"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
@@ -263,36 +273,14 @@
           }
         },
         {
-          "id": "BSL_v8.4.01.2.zip",
-          "name": "BSL_v8.4.01.2.zip",
+          "id": "ComplementaryReimagined_r5.5.1.zip",
+          "name": "ComplementaryReimagined_r5.5.1.zip",
           "type": "File",
           "artifact": {
-            "size": 1105709,
-            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/files/shaderpacks/BSL_v8.4.01.2.zip",
-            "MD5": "d8f5cc79fc4be47936362198bd5dbe6d",
-            "path": "shaderpacks/BSL_v8.4.01.2.zip"
-          }
-        },
-        {
-          "id": "ComplementaryUnbound_r5.4.zip",
-          "name": "ComplementaryUnbound_r5.4.zip",
-          "type": "File",
-          "artifact": {
-            "size": 452408,
-            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.4.zip",
-            "MD5": "94f56d5c5c343b9a0f4ad7eb135f9afa",
-            "path": "shaderpacks/ComplementaryUnbound_r5.4.zip"
-          }
-        },
-        {
-          "id": "Sildur's Vibrant Shaders v1.52 Medium.zip",
-          "name": "Sildur's Vibrant Shaders v1.52 Medium.zip",
-          "type": "File",
-          "artifact": {
-            "size": 142509,
-            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Medium.zip",
-            "MD5": "73ac2677df6b146ff789c06c73ca67d1",
-            "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Medium.zip"
+            "size": 456328,
+            "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.5.1.zip",
+            "MD5": "e49c87af1c2bb64337068f6928f06bff",
+            "path": "shaderpacks/ComplementaryReimagined_r5.5.1.zip"
           }
         }
       ]
