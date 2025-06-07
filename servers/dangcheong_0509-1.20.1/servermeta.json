@@ -5,7 +5,7 @@
     "name": "YuuJun",
     "description": "Minecraft 1.20.1 (Fabric v0.16.12)",
     "icon": "https://github.com/mchdistro/dangcheong/raw/main/server-icon.png",
-    "address": "mc.gotiger.dev:25566",
+    "address": "mc.gotiger.dev:12345",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",

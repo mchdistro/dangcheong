@@ -13,7 +13,7 @@
       "description": "Minecraft 1.20.1 (Fabric v0.16.12)",
       "icon": "https://github.com/mchdistro/dangcheong/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "mc.gotiger.dev:25566",
+      "address": "mc.gotiger.dev:12345",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -280,9 +280,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 70,
+            "size": 111,
             "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/files/servers.dat",
-            "MD5": "d3f30e006b6bc48889ee50f768215a60",
+            "MD5": "7c384f4e75d82e9124eb8c1af2236033",
             "path": "servers.dat"
           }
         },
