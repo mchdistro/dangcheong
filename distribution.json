@@ -280,9 +280,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 111,
+            "size": 107,
             "url": "https://github.com/mchdistro/dangcheong/raw/main/servers/dangcheong_0509-1.20.1/files/servers.dat",
-            "MD5": "7c384f4e75d82e9124eb8c1af2236033",
+            "MD5": "fef481610a2a64d197512e9d45660b30",
             "path": "servers.dat"
           }
         },
